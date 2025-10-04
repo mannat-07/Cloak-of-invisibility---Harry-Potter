@@ -2,7 +2,7 @@
 This project creates a magical invisibility cloak effect using Python and OpenCV — inspired by Harry Potter! When you wear a cloak of a specific color (like yellow), the program detects that color and replaces it with the background, making you appear invisible on screen.
 
 ## Output
-![Magic Window output](/output.gif)
+![Magic Window output](/Output.gif)
 
 ### 🚀 How It Works  
 - The program first captures a still frame of the background (without you in it).  
